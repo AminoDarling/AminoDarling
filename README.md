@@ -2,11 +2,11 @@
 
 👀 I’m interested in webpage development.
 
-🌱 I’m currently learning JS/Py/HTML/CSS and exploring more programming lang.
+🌱 I’m currently learning JS/Py/HTML/CSS/PHP and exploring more programming languages.
 
 💞️ I’m looking to make my first graphical game/interface.
 
-📫 How to reach me: idk ,im not a social person.
+📫 How to reach me: Discord >>AminoDarling#4804
 
 😄 Pronouns: He/him
 
